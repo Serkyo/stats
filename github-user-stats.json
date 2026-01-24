@@ -2,19 +2,19 @@
   "name": "",
   "avatarUrl": "https://avatars.githubusercontent.com/u/43610296?v=4",
   "username": "Serkyo",
-  "bio": "👋 Hey there ! I'm a developer who enjoys creating fun, open-source projects, mostly around games 🎮 Currently diving deep into game modding and indie dev 🌟",
+  "bio": "👋 Hey there ! I'm a developer who enjoys creating fun, open-source projects, mostly around games 🎮 Currently learning rust and diving deep into indie dev 🌟",
   "company": null,
   "location": "France, Bayonne",
   "email": "serkyo-dev@proton.me",
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2018-09-26T13:23:19Z",
-  "repoViews": 18,
-  "linesOfCodeChanged": 1264758,
-  "linesAdded": 767602,
-  "linesDeleted": 497156,
-  "commitCount": 1132,
-  "totalCommits": 1254,
+  "repoViews": 30,
+  "linesOfCodeChanged": 1264822,
+  "linesAdded": 767636,
+  "linesDeleted": 497186,
+  "commitCount": 1135,
+  "totalCommits": 1256,
   "totalPullRequests": 0,
   "totalPullRequestReviews": 1,
   "codeByteTotal": 782278,
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 5,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1461,
+  "totalContributions": 1463,
   "contributionStats": {
     "longestStreak": 39,
     "currentStreak": 14,
     "mostActiveDay": "Thursday",
     "averagePerDay": 0.54,
     "averagePerWeek": 3.81,
-    "averagePerMonth": 16.33,
+    "averagePerMonth": 16.35,
     "monthlyBreakdown": [
       {
         "month": "2018-09",
@@ -433,7 +433,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 162
+        "contributions": 164
       }
     ]
   },
@@ -591,23 +591,23 @@
       "multipurpose-discord-bot",
       "nodejs"
     ],
-    "contributionsThisYear": 162,
+    "contributionsThisYear": 164,
     "contributionsLastYear": 1298,
-    "yearOverYearGrowth": -87.52,
+    "yearOverYearGrowth": -87.37,
     "mostProductiveMonth": {
       "month": "2025-10",
       "contributions": 407
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 763,
-    "restrictedContributionsCount": 682,
+    "totalCommitContributions": 764,
+    "restrictedContributionsCount": 683,
     "totalIssueContributions": 6,
     "totalRepositoryContributions": 8,
     "totalPullRequestContributions": 0,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 1461,
+      "totalContributions": 1463,
       "weeks": [
         {
           "contributionDays": [
@@ -12900,8 +12900,12 @@
               "date": "2026-01-22"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-01-23"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-24"
             }
           ]
         }
@@ -12939,7 +12943,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-01-23T01:44:43Z",
+      "updatedAt": "2026-01-24T01:32:44Z",
       "createdAt": "2026-01-15T14:57:54Z"
     },
     {
@@ -12952,7 +12956,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-01-22T12:47:41Z",
+      "updatedAt": "2026-01-23T12:48:36Z",
       "createdAt": "2026-01-15T14:41:12Z"
     },
     {
@@ -13034,7 +13038,7 @@
       "isPrivate": true,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-01-23T00:57:12Z",
+      "updatedAt": "2026-01-23T20:28:19Z",
       "createdAt": "2025-07-01T22:27:35Z"
     },
     {
@@ -13059,5 +13063,5 @@
   ],
   "closedIssues": 4,
   "openIssues": 2,
-  "fetchedAt": 1769172195104
+  "fetchedAt": 1769258276784
 }
