@@ -9,69 +9,57 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2018-09-26T13:23:19Z",
-  "repoViews": 49,
+  "repoViews": 46,
   "linesOfCodeChanged": 0,
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 0,
-  "totalCommits": 1819,
-  "totalPullRequests": 17,
+  "totalCommits": 1839,
+  "totalPullRequests": 20,
   "totalPullRequestReviews": 1,
-  "codeByteTotal": 954928,
+  "codeByteTotal": 913205,
   "topLanguages": [
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 536087,
-      "percentage": 56.14
+      "percentage": 58.7
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 209540,
-      "percentage": 21.94
+      "percentage": 22.95
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 134987,
-      "percentage": 14.14
-    },
-    {
-      "languageName": "Rust",
-      "color": "#dea584",
-      "value": 41217,
-      "percentage": 4.32
+      "percentage": 14.78
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 16381,
-      "percentage": 1.72
+      "percentage": 1.79
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 11465,
-      "percentage": 1.2
+      "percentage": 1.26
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
       "value": 2924,
-      "percentage": 0.31
+      "percentage": 0.32
     },
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
       "value": 1385,
       "percentage": 0.15
-    },
-    {
-      "languageName": "GLSL",
-      "color": "#5686a5",
-      "value": 506,
-      "percentage": 0.05
     },
     {
       "languageName": "HTML",
@@ -85,17 +73,17 @@
   "starsGiven": 2,
   "followers": 1,
   "following": 2,
-  "repositoriesContributedTo": 4,
+  "repositoriesContributedTo": 6,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2123,
+  "totalContributions": 2102,
   "contributionStats": {
-    "longestStreak": 122,
-    "currentStreak": 122,
-    "mostActiveDay": "Thursday",
-    "averagePerDay": 0.76,
-    "averagePerWeek": 5.32,
-    "averagePerMonth": 22.81,
+    "longestStreak": 123,
+    "currentStreak": 123,
+    "mostActiveDay": "Monday",
+    "averagePerDay": 0.75,
+    "averagePerWeek": 5.27,
+    "averagePerMonth": 22.58,
     "monthlyBreakdown": [
       {
         "month": "2018-09",
@@ -455,7 +443,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 66
+        "contributions": 65
       },
       {
         "month": "2026-03",
@@ -463,38 +451,38 @@
       },
       {
         "month": "2026-04",
-        "contributions": 474
+        "contributions": 431
       },
       {
         "month": "2026-05",
-        "contributions": 95
+        "contributions": 118
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 18,
+    "totalRepos": 17,
     "publicRepos": 8,
-    "privateRepos": 10,
+    "privateRepos": 9,
     "archivedRepos": 4,
     "forkedRepos": 1,
-    "originalRepos": 17,
-    "activeRepos": 15,
+    "originalRepos": 16,
+    "activeRepos": 14,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 0.17
+    "reposCreatedThisYear": 7,
+    "averageStarsPerRepo": 0.18
   },
   "computedStats": {
-    "totalRepos": 18,
+    "totalRepos": 17,
     "publicRepos": 8,
-    "privateRepos": 10,
+    "privateRepos": 9,
     "archivedRepos": 4,
     "forkedRepos": 1,
-    "originalRepos": 17,
-    "activeRepos": 15,
+    "originalRepos": 16,
+    "activeRepos": 14,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 0.17,
-    "languageCount": 10,
+    "reposCreatedThisYear": 7,
+    "averageStarsPerRepo": 0.18,
+    "languageCount": 8,
     "primaryLanguage": "Java",
     "primaryLanguageThisYear": "Java",
     "topLanguagesThisYear": [
@@ -502,49 +490,37 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 534825,
-        "percentage": 60.75
+        "percentage": 63.78
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 209540,
-        "percentage": 23.8
+        "percentage": 24.99
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 78005,
-        "percentage": 8.86
-      },
-      {
-        "languageName": "Rust",
-        "color": "#dea584",
-        "value": 41217,
-        "percentage": 4.68
+        "percentage": 9.3
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 11465,
-        "percentage": 1.3
+        "percentage": 1.37
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
         "value": 2924,
-        "percentage": 0.33
+        "percentage": 0.35
       },
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 1385,
-        "percentage": 0.16
-      },
-      {
-        "languageName": "GLSL",
-        "color": "#5686a5",
-        "value": 506,
-        "percentage": 0.06
+        "percentage": 0.17
       },
       {
         "languageName": "HTML",
@@ -643,23 +619,23 @@
       "multipurpose-discord-bot",
       "nodejs"
     ],
-    "contributionsThisYear": 899,
+    "contributionsThisYear": 878,
     "contributionsLastYear": 1223,
-    "yearOverYearGrowth": -26.49,
+    "yearOverYearGrowth": -28.21,
     "mostProductiveMonth": {
       "month": "2026-04",
-      "contributions": 474
+      "contributions": 431
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 848,
-    "restrictedContributionsCount": 1254,
+    "totalCommitContributions": 850,
+    "restrictedContributionsCount": 1230,
     "totalIssueContributions": 11,
     "totalRepositoryContributions": 8,
-    "totalPullRequestContributions": 0,
+    "totalPullRequestContributions": 1,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 2123,
+      "totalContributions": 2102,
       "weeks": [
         {
           "contributionDays": [
@@ -13072,7 +13048,7 @@
               "date": "2026-02-17"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 2,
               "date": "2026-02-18"
             },
             {
@@ -13332,15 +13308,15 @@
               "date": "2026-04-15"
             },
             {
-              "contributionCount": 19,
+              "contributionCount": 18,
               "date": "2026-04-16"
             },
             {
-              "contributionCount": 30,
+              "contributionCount": 28,
               "date": "2026-04-17"
             },
             {
-              "contributionCount": 19,
+              "contributionCount": 8,
               "date": "2026-04-18"
             }
           ]
@@ -13372,7 +13348,7 @@
               "date": "2026-04-24"
             },
             {
-              "contributionCount": 9,
+              "contributionCount": 3,
               "date": "2026-04-25"
             }
           ]
@@ -13380,7 +13356,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 16,
+              "contributionCount": 4,
               "date": "2026-04-26"
             },
             {
@@ -13396,7 +13372,7 @@
               "date": "2026-04-29"
             },
             {
-              "contributionCount": 31,
+              "contributionCount": 20,
               "date": "2026-04-30"
             },
             {
@@ -13448,8 +13424,12 @@
               "date": "2026-05-10"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 7,
               "date": "2026-05-11"
+            },
+            {
+              "contributionCount": 19,
+              "date": "2026-05-12"
             }
           ]
         }
@@ -13474,7 +13454,7 @@
         "multipurpose-discord-bot",
         "nodejs"
       ],
-      "updatedAt": "2026-04-28T09:04:09Z",
+      "updatedAt": "2026-05-12T08:35:27Z",
       "createdAt": "2025-03-15T18:41:30Z"
     },
     {
@@ -13517,19 +13497,6 @@
       "createdAt": "2026-03-01T02:28:28Z"
     },
     {
-      "name": "project-catalyst",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2026-05-10T22:04:55Z",
-      "createdAt": "2026-02-18T22:34:44Z"
-    },
-    {
       "name": "github-stats-remotion",
       "description": "A remotion GitHub action for generating readme profile gifs of your GitHub stats",
       "stars": 0,
@@ -13539,7 +13506,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-05-11T03:01:38Z",
+      "updatedAt": "2026-05-12T02:53:13Z",
       "createdAt": "2026-01-15T14:57:54Z"
     },
     {
@@ -13552,7 +13519,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-05-10T13:19:44Z",
+      "updatedAt": "2026-05-11T15:04:09Z",
       "createdAt": "2026-01-15T14:41:12Z"
     },
     {
@@ -13593,9 +13560,26 @@
       "topics": [],
       "updatedAt": "2025-12-03T20:10:14Z",
       "createdAt": "2025-11-16T18:33:48Z"
+    },
+    {
+      "name": "Deicide",
+      "description": "Repository hosting the configuration of the Deicide Minecraft modpack",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [
+        "minecraft",
+        "minecraft-forge",
+        "modpack"
+      ],
+      "updatedAt": "2026-01-10T19:39:09Z",
+      "createdAt": "2025-10-18T13:52:14Z"
     }
   ],
   "closedIssues": 8,
   "openIssues": 3,
-  "fetchedAt": 1778510745215
+  "fetchedAt": 1778595652278
 }
