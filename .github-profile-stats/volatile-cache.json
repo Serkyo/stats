@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": 1780068198018,
+  "restEtags": {
+    "traffic:R_kgDOOyXo0A": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068148758
+    },
+    "traffic:R_kgDOQ6cmwQ": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068148770
+    },
+    "traffic:R_kgDOQ6dTZg": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068148915
+    },
+    "traffic:R_kgDOQE2BWw": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068148952
+    },
+    "traffic:R_kgDOQg-NeQ": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068149088
+    },
+    "traffic:R_kgDOQfbmwQ": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068149105
+    },
+    "traffic:R_kgDOOJKUog": {
+      "etag": "W/\"8aa661be223e0d5388faf4296cc56d5f47bfff1a3d88bcf5d13a29fbc920ad89\"",
+      "updatedAt": 1780068165179
+    },
+    "traffic:R_kgDOQ0EZIA": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068181449
+    },
+    "traffic:R_kgDOLzGKkQ": {
+      "etag": "W/\"09345d36af65ad1dda04cbf0b3c21383d7c7d37fb97093e3cd640005b9803116\"",
+      "updatedAt": 1780068181596
+    }
+  }
+}
