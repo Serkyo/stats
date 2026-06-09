@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1780933665734,
+  "updatedAt": 1781016392249,
   "contributionYears": {
     "2018": {
       "year": "2018",
@@ -10672,7 +10672,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1780933640372,
+      "fetchedAt": 1781016375020,
       "immutable": false,
       "data": {
         "totalCommitContributions": 574,
@@ -12533,7 +12533,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDONd8R3Q",
@@ -12581,7 +12581,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOQE2BWw",
@@ -12633,7 +12633,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOOyXo0A",
@@ -12681,7 +12681,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOQfbmwQ",
@@ -12716,7 +12716,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOQg-NeQ",
@@ -12758,7 +12758,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOLD_phQ",
@@ -12810,7 +12810,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOLyVe5w",
@@ -12852,7 +12852,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         },
         {
           "id": "R_kgDOMiQ7SQ",
@@ -12887,25 +12887,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933640372
+          "metadataFetchedAt": 1781016375020
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-06-08T15:47:19.694Z",
-      "fetchedAt": 1780933641347,
+      "to": "2026-06-09T14:46:14.224Z",
+      "fetchedAt": 1781016375916,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 307,
-        "restrictedContributionsCount": 761,
+        "totalCommitContributions": 308,
+        "restrictedContributionsCount": 773,
         "totalIssueContributions": 7,
         "totalRepositoryContributions": 3,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 2,
         "contributionCalendar": {
-          "totalContributions": 1086,
+          "totalContributions": 1099,
           "weeks": [
             {
               "contributionDays": [
@@ -13630,12 +13630,16 @@
             {
               "contributionDays": [
                 {
-                  "contributionCount": 1,
+                  "contributionCount": 7,
                   "date": "2026-06-07"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 7,
                   "date": "2026-06-08"
+                },
+                {
+                  "contributionCount": 0,
+                  "date": "2026-06-09"
                 }
               ]
             }
@@ -13732,7 +13736,7 @@
           "nameWithOwner": "Serkyo/stats",
           "owner": "Serkyo",
           "counts": {
-            "commits": 145,
+            "commits": 146,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -13800,7 +13804,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQE2BWw",
@@ -13852,7 +13856,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOOyXo0A",
@@ -13900,7 +13904,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQ6dTZg",
@@ -13916,9 +13920,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-01-15T14:57:54Z",
-          "updatedAt": "2026-06-08T03:56:00Z",
-          "pushedAt": "2026-06-08T03:55:56Z",
-          "defaultBranchOid": "0949599bb51b833980789c286af783be0ebc4c24",
+          "updatedAt": "2026-06-09T03:00:24Z",
+          "pushedAt": "2026-06-09T03:00:19Z",
+          "defaultBranchOid": "ab93eaafcbf56303c0a4755362807f615814f7cf",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -13935,7 +13939,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQ0EZIA",
@@ -13989,7 +13993,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQfbmwQ",
@@ -14024,7 +14028,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQg-NeQ",
@@ -14066,7 +14070,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         },
         {
           "id": "R_kgDOQ6cmwQ",
@@ -14082,9 +14086,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-01-15T14:41:12Z",
-          "updatedAt": "2026-06-07T13:48:32Z",
-          "pushedAt": "2026-06-07T13:48:29Z",
-          "defaultBranchOid": "b27676e1831a3d53be7265a1119d827b140af8c0",
+          "updatedAt": "2026-06-08T15:47:52Z",
+          "pushedAt": "2026-06-08T15:47:48Z",
+          "defaultBranchOid": "deedabbd1695da478bbb027de14828ad5329f0df",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -14101,14 +14105,14 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1780933641347
+          "metadataFetchedAt": 1781016375916
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOOJKUog": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOOJKUog",
         "name": "Shiveron",
@@ -14171,11 +14175,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDONd8R3Q": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDONd8R3Q",
         "name": "SculkSickness",
@@ -14223,11 +14227,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933640372
+        "metadataFetchedAt": 1781016375020
       }
     },
     "R_kgDOQE2BWw": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQE2BWw",
         "name": "Deicide",
@@ -14280,11 +14284,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOOyXo0A": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOOyXo0A",
         "name": "Deicide-Additions",
@@ -14333,11 +14337,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOQ6dTZg": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQ6dTZg",
         "name": "github-stats-remotion",
@@ -14352,9 +14356,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-01-15T14:57:54Z",
-        "updatedAt": "2026-06-08T03:56:00Z",
-        "pushedAt": "2026-06-08T03:55:56Z",
-        "defaultBranchOid": "0949599bb51b833980789c286af783be0ebc4c24",
+        "updatedAt": "2026-06-09T03:00:24Z",
+        "pushedAt": "2026-06-09T03:00:19Z",
+        "defaultBranchOid": "ab93eaafcbf56303c0a4755362807f615814f7cf",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -14373,11 +14377,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOQ0EZIA": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQ0EZIA",
         "name": "ProjetInfraIoT",
@@ -14432,11 +14436,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOQfbmwQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQfbmwQ",
         "name": "Serkyo",
@@ -14472,11 +14476,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOQg-NeQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQg-NeQ",
         "name": "SimplyCompat",
@@ -14519,11 +14523,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOQ6cmwQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOQ6cmwQ",
         "name": "stats",
@@ -14538,9 +14542,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-01-15T14:41:12Z",
-        "updatedAt": "2026-06-07T13:48:32Z",
-        "pushedAt": "2026-06-07T13:48:29Z",
-        "defaultBranchOid": "b27676e1831a3d53be7265a1119d827b140af8c0",
+        "updatedAt": "2026-06-08T15:47:52Z",
+        "pushedAt": "2026-06-08T15:47:48Z",
+        "defaultBranchOid": "deedabbd1695da478bbb027de14828ad5329f0df",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -14559,11 +14563,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933641347
+        "metadataFetchedAt": 1781016375916
       }
     },
     "R_kgDOLD_phQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOLD_phQ",
         "name": "Epic-Seven-E7-Secret-Shop-Refresh",
@@ -14616,11 +14620,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933640372
+        "metadataFetchedAt": 1781016375020
       }
     },
     "R_kgDOLyVe5w": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOLyVe5w",
         "name": "MyNethersDelight",
@@ -14662,11 +14666,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933640372
+        "metadataFetchedAt": 1781016375020
       }
     },
     "R_kgDOMiQ7SQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOMiQ7SQ",
         "name": "crackers-wither-storm-plus",
@@ -14701,11 +14705,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780933640372
+        "metadataFetchedAt": 1781016375020
       }
     },
     "R_kgDOLzGKkQ": {
-      "fetchedAt": 1780933648705,
+      "fetchedAt": 1781016383301,
       "repository": {
         "id": "R_kgDOLzGKkQ",
         "name": "Projet-Transverse",
@@ -14761,22 +14765,20 @@
       "status": "fresh"
     },
     "R_kgDOQ6dTZg": {
-      "additions": 0,
-      "deletions": 0,
-      "commits": 0,
-      "fetchedAt": 1780933665273,
-      "defaultBranchOid": "0949599bb51b833980789c286af783be0ebc4c24",
-      "status": "pending",
-      "error": "GitHub still computing contributor stats (202)"
+      "additions": 3,
+      "deletions": 2,
+      "commits": 149,
+      "fetchedAt": 1781016387630,
+      "defaultBranchOid": "ab93eaafcbf56303c0a4755362807f615814f7cf",
+      "status": "fresh"
     },
     "R_kgDOQ6cmwQ": {
-      "additions": 0,
-      "deletions": 0,
-      "commits": 0,
-      "fetchedAt": 1780933665147,
-      "defaultBranchOid": "b27676e1831a3d53be7265a1119d827b140af8c0",
-      "status": "pending",
-      "error": "GitHub still computing contributor stats (202)"
+      "additions": 74299,
+      "deletions": 15935,
+      "commits": 146,
+      "fetchedAt": 1781016391784,
+      "defaultBranchOid": "deedabbd1695da478bbb027de14828ad5329f0df",
+      "status": "fresh"
     },
     "R_kgDOOyXo0A": {
       "additions": 40836,
@@ -14986,7 +14988,7 @@
         }
       ],
       "fetchedAt": 1780933648999,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQ6cmwQ": {
       "count": 0,
@@ -15114,7 +15116,7 @@
         }
       ],
       "fetchedAt": 1780933649050,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQ6dTZg": {
       "count": 0,
@@ -15242,7 +15244,7 @@
         }
       ],
       "fetchedAt": 1780933649178,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQE2BWw": {
       "count": 0,
@@ -15370,7 +15372,7 @@
         }
       ],
       "fetchedAt": 1780933649246,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQg-NeQ": {
       "count": 0,
@@ -15498,7 +15500,7 @@
         }
       ],
       "fetchedAt": 1780933649447,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQfbmwQ": {
       "count": 0,
@@ -15626,7 +15628,7 @@
         }
       ],
       "fetchedAt": 1780933649346,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOOJKUog": {
       "count": 6,
@@ -15754,7 +15756,7 @@
         }
       ],
       "fetchedAt": 1780933649567,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQ0EZIA": {
       "count": 0,
@@ -15882,7 +15884,7 @@
         }
       ],
       "fetchedAt": 1780933649654,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOLzGKkQ": {
       "count": 0,
@@ -16010,7 +16012,7 @@
         }
       ],
       "fetchedAt": 1780933649740,
-      "status": "fresh"
+      "status": "cached"
     }
   },
   "backfill": {
@@ -16020,23 +16022,23 @@
       "contributors:R_kgDOQ6dTZg:820126b2e441d325a6a5313acae0a6a3ac28db3b": 1780068148584,
       "contributors:R_kgDOQ6cmwQ:dad15064948e0f8776151e0f130e765882b264ad": 1780068148586,
       "contributors:R_kgDOOyXo0A:baf71099c96a96b2474da3990d9a1415d7a7cf99": 1780670791747,
-      "traffic:R_kgDOOyXo0A": 1780933648999,
-      "traffic:R_kgDOQ6cmwQ": 1780933649050,
-      "traffic:R_kgDOQ6dTZg": 1780933649178,
-      "traffic:R_kgDOQE2BWw": 1780933649246,
-      "traffic:R_kgDOQg-NeQ": 1780933649447,
-      "traffic:R_kgDOQfbmwQ": 1780933649346,
+      "traffic:R_kgDOOyXo0A": 1781016383635,
+      "traffic:R_kgDOQ6cmwQ": 1781016383631,
+      "traffic:R_kgDOQ6dTZg": 1781016383813,
+      "traffic:R_kgDOQE2BWw": 1781016383827,
+      "traffic:R_kgDOQg-NeQ": 1781016384016,
+      "traffic:R_kgDOQfbmwQ": 1781016384015,
       "contributors:R_kgDOQfbmwQ:147abd8ba08939dfa8054060aa7c25b06872dedd": 1780670792199,
       "contributors:R_kgDOQg-NeQ:b912fd8cda823107684a27910c07fdcb447ea091": 1780670792092,
-      "traffic:R_kgDOOJKUog": 1780933649567,
+      "traffic:R_kgDOOJKUog": 1781016384256,
       "contributors:R_kgDOLyVe5w:5de778d35e95f5f970a9d0c5216e1782896e0482": 1780670793388,
       "contributors:R_kgDOLD_phQ:49313d14b24f1b8efbeb49f9a6b2126f9bbd0849": 1780670792870,
       "contributors:R_kgDOMiQ7SQ:47f492b9302c67091ebd185d8854d370f0f09e35": 1780670793371,
       "contributors:R_kgDOQ0EZIA:8713c114e730f47f67f5b1ea90c9d9ff8e39de32": 1780670795114,
       "contributors:R_kgDOOJKUog:a52482c59df9f566e4786d3217f9d6d54d499fad": 1780670793008,
-      "traffic:R_kgDOQ0EZIA": 1780933649654,
+      "traffic:R_kgDOQ0EZIA": 1781016384228,
       "contributors:R_kgDONd8R3Q:cb2e6e3dd3bef7ec7a9a09ce30aa8d579f1948bc": 1780670793379,
-      "traffic:R_kgDOLzGKkQ": 1780933649740,
+      "traffic:R_kgDOLzGKkQ": 1781016384431,
       "contributors:R_kgDOLzGKkQ:ed724dfa2c19373369c5affbd5cbe5fa62f84684": 1780670793732,
       "contributors:R_kgDOQ6cmwQ:4a195d00f7403736ca9b16bf9d1e3a968bd1920a": 1780147517952,
       "contributors:R_kgDOQ6dTZg:5cf0c8dc30005b98643c6ee407f829b83089e65a": 1780147518002,
@@ -16057,7 +16059,9 @@
       "contributors:R_kgDOQ6dTZg:4e9ae16194fce17a56a92dbdbf519d1e00b8e2a2": 1780840104662,
       "contributors:R_kgDOQ6cmwQ:1b00fc6c35580a0db1c8164b72952d9bedfa3788": 1780840106853,
       "contributors:R_kgDOQ6cmwQ:b27676e1831a3d53be7265a1119d827b140af8c0": 1780933665148,
-      "contributors:R_kgDOQ6dTZg:0949599bb51b833980789c286af783be0ebc4c24": 1780933665273
+      "contributors:R_kgDOQ6dTZg:0949599bb51b833980789c286af783be0ebc4c24": 1780933665273,
+      "contributors:R_kgDOQ6dTZg:ab93eaafcbf56303c0a4755362807f615814f7cf": 1781016387630,
+      "contributors:R_kgDOQ6cmwQ:deedabbd1695da478bbb027de14828ad5329f0df": 1781016391784
     },
     "failures": {}
   }
