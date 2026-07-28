@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1785162478945,
+  "updatedAt": 1785247272643,
   "contributionYears": {
     "2018": {
       "year": "2018",
@@ -10672,7 +10672,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1785162466375,
+      "fetchedAt": 1785247260481,
       "immutable": false,
       "data": {
         "totalCommitContributions": 574,
@@ -12533,7 +12533,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDONd8R3Q",
@@ -12581,7 +12581,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOQE2BWw",
@@ -12633,7 +12633,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOOyXo0A",
@@ -12681,7 +12681,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOQfbmwQ",
@@ -12716,7 +12716,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOQg-NeQ",
@@ -12758,7 +12758,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOLD_phQ",
@@ -12810,7 +12810,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOLyVe5w",
@@ -12852,7 +12852,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         },
         {
           "id": "R_kgDOMiQ7SQ",
@@ -12887,25 +12887,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162466375
+          "metadataFetchedAt": 1785247260481
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-07-27T14:27:45.504Z",
-      "fetchedAt": 1785162467342,
+      "to": "2026-07-28T14:00:59.761Z",
+      "fetchedAt": 1785247261465,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 356,
-        "restrictedContributionsCount": 993,
+        "totalCommitContributions": 357,
+        "restrictedContributionsCount": 996,
         "totalIssueContributions": 7,
         "totalRepositoryContributions": 3,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 2,
         "contributionCalendar": {
-          "totalContributions": 1367,
+          "totalContributions": 1371,
           "weeks": [
             {
               "contributionDays": [
@@ -13858,8 +13858,12 @@
                   "date": "2026-07-26"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 2,
                   "date": "2026-07-27"
+                },
+                {
+                  "contributionCount": 2,
+                  "date": "2026-07-28"
                 }
               ]
             }
@@ -13956,7 +13960,7 @@
           "nameWithOwner": "Serkyo/stats",
           "owner": "Serkyo",
           "counts": {
-            "commits": 194,
+            "commits": 195,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -14024,7 +14028,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQE2BWw",
@@ -14076,7 +14080,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOOyXo0A",
@@ -14124,7 +14128,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQ6dTZg",
@@ -14140,9 +14144,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-01-15T14:57:54Z",
-          "updatedAt": "2026-07-27T02:47:53Z",
-          "pushedAt": "2026-07-27T02:47:43Z",
-          "defaultBranchOid": "cbdd2009f10e8e9be8d4fbd752b956dbae20a468",
+          "updatedAt": "2026-07-28T02:27:38Z",
+          "pushedAt": "2026-07-28T02:27:33Z",
+          "defaultBranchOid": "49d8f433860ae3bbb8ed43abea4a6f62cee1e0d1",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -14159,7 +14163,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQ0EZIA",
@@ -14213,7 +14217,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQfbmwQ",
@@ -14248,7 +14252,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQg-NeQ",
@@ -14290,7 +14294,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         },
         {
           "id": "R_kgDOQ6cmwQ",
@@ -14306,9 +14310,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2026-01-15T14:41:12Z",
-          "updatedAt": "2026-07-26T13:16:02Z",
-          "pushedAt": "2026-07-26T13:15:56Z",
-          "defaultBranchOid": "22ddeb9e1fc9185e7dd163b5ea066133de4fcf6a",
+          "updatedAt": "2026-07-27T14:32:26Z",
+          "pushedAt": "2026-07-27T14:28:01Z",
+          "defaultBranchOid": "da2f5863b44f5660940372d0ccb5c96370d60e57",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -14325,14 +14329,14 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1785162467342
+          "metadataFetchedAt": 1785247261465
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOOJKUog": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268177,
       "repository": {
         "id": "R_kgDOOJKUog",
         "name": "Shiveron",
@@ -14395,11 +14399,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDONd8R3Q": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDONd8R3Q",
         "name": "SculkSickness",
@@ -14447,11 +14451,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162466375
+        "metadataFetchedAt": 1785247260481
       }
     },
     "R_kgDOQE2BWw": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQE2BWw",
         "name": "Deicide",
@@ -14504,11 +14508,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOOyXo0A": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOOyXo0A",
         "name": "Deicide-Additions",
@@ -14557,11 +14561,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOQ6dTZg": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQ6dTZg",
         "name": "github-stats-remotion",
@@ -14576,9 +14580,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-01-15T14:57:54Z",
-        "updatedAt": "2026-07-27T02:47:53Z",
-        "pushedAt": "2026-07-27T02:47:43Z",
-        "defaultBranchOid": "cbdd2009f10e8e9be8d4fbd752b956dbae20a468",
+        "updatedAt": "2026-07-28T02:27:38Z",
+        "pushedAt": "2026-07-28T02:27:33Z",
+        "defaultBranchOid": "49d8f433860ae3bbb8ed43abea4a6f62cee1e0d1",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -14597,11 +14601,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOQ0EZIA": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQ0EZIA",
         "name": "ProjetInfraIoT",
@@ -14656,11 +14660,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOQfbmwQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQfbmwQ",
         "name": "Serkyo",
@@ -14696,11 +14700,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOQg-NeQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQg-NeQ",
         "name": "SimplyCompat",
@@ -14743,11 +14747,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOQ6cmwQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOQ6cmwQ",
         "name": "stats",
@@ -14762,9 +14766,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2026-01-15T14:41:12Z",
-        "updatedAt": "2026-07-26T13:16:02Z",
-        "pushedAt": "2026-07-26T13:15:56Z",
-        "defaultBranchOid": "22ddeb9e1fc9185e7dd163b5ea066133de4fcf6a",
+        "updatedAt": "2026-07-27T14:32:26Z",
+        "pushedAt": "2026-07-27T14:28:01Z",
+        "defaultBranchOid": "da2f5863b44f5660940372d0ccb5c96370d60e57",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -14783,11 +14787,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162467342
+        "metadataFetchedAt": 1785247261465
       }
     },
     "R_kgDOLD_phQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOLD_phQ",
         "name": "Epic-Seven-E7-Secret-Shop-Refresh",
@@ -14839,11 +14843,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162466375
+        "metadataFetchedAt": 1785247260481
       }
     },
     "R_kgDOLyVe5w": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOLyVe5w",
         "name": "MyNethersDelight",
@@ -14885,11 +14889,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162466375
+        "metadataFetchedAt": 1785247260481
       }
     },
     "R_kgDOMiQ7SQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOMiQ7SQ",
         "name": "crackers-wither-storm-plus",
@@ -14924,11 +14928,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1785162466375
+        "metadataFetchedAt": 1785247260481
       }
     },
     "R_kgDOLzGKkQ": {
-      "fetchedAt": 1785162474386,
+      "fetchedAt": 1785247268178,
       "repository": {
         "id": "R_kgDOLzGKkQ",
         "name": "Projet-Transverse",
@@ -14986,17 +14990,17 @@
     "R_kgDOQ6dTZg": {
       "additions": 3,
       "deletions": 2,
-      "commits": 197,
-      "fetchedAt": 1785162478436,
-      "defaultBranchOid": "cbdd2009f10e8e9be8d4fbd752b956dbae20a468",
+      "commits": 198,
+      "fetchedAt": 1785247272134,
+      "defaultBranchOid": "49d8f433860ae3bbb8ed43abea4a6f62cee1e0d1",
       "status": "fresh"
     },
     "R_kgDOQ6cmwQ": {
-      "additions": 87458,
-      "deletions": 25587,
-      "commits": 194,
-      "fetchedAt": 1785162476052,
-      "defaultBranchOid": "22ddeb9e1fc9185e7dd163b5ea066133de4fcf6a",
+      "additions": 87729,
+      "deletions": 25787,
+      "commits": 195,
+      "fetchedAt": 1785247269728,
+      "defaultBranchOid": "da2f5863b44f5660940372d0ccb5c96370d60e57",
       "status": "fresh"
     },
     "R_kgDOOyXo0A": {
@@ -15449,9 +15453,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474565,
+      "fetchedAt": 1785247268462,
       "status": "fresh"
     },
     "R_kgDOQ6cmwQ": {
@@ -15822,9 +15831,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474563,
+      "fetchedAt": 1785247268311,
       "status": "fresh"
     },
     "R_kgDOQ6dTZg": {
@@ -16195,9 +16209,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474727,
+      "fetchedAt": 1785247268453,
       "status": "fresh"
     },
     "R_kgDOQE2BWw": {
@@ -16568,9 +16587,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474705,
+      "fetchedAt": 1785247268564,
       "status": "fresh"
     },
     "R_kgDOQg-NeQ": {
@@ -16939,7 +16963,7 @@
         }
       ],
       "fetchedAt": 1785162474841,
-      "status": "fresh"
+      "status": "cached"
     },
     "R_kgDOQfbmwQ": {
       "count": 0,
@@ -17309,9 +17333,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474881,
+      "fetchedAt": 1785247268570,
       "status": "fresh"
     },
     "R_kgDOOJKUog": {
@@ -17682,9 +17711,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162474986,
+      "fetchedAt": 1785247268714,
       "status": "fresh"
     },
     "R_kgDOQ0EZIA": {
@@ -18055,9 +18089,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162475016,
+      "fetchedAt": 1785247268895,
       "status": "fresh"
     },
     "R_kgDOLzGKkQ": {
@@ -18428,9 +18467,14 @@
           "timestamp": "2026-07-26T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1785162475125,
+      "fetchedAt": 1785247268837,
       "status": "fresh"
     }
   },
@@ -18441,23 +18485,23 @@
       "contributors:R_kgDOQ6dTZg:820126b2e441d325a6a5313acae0a6a3ac28db3b": 1780068148584,
       "contributors:R_kgDOQ6cmwQ:dad15064948e0f8776151e0f130e765882b264ad": 1780068148586,
       "contributors:R_kgDOOyXo0A:baf71099c96a96b2474da3990d9a1415d7a7cf99": 1780670791747,
-      "traffic:R_kgDOOyXo0A": 1785162474565,
-      "traffic:R_kgDOQ6cmwQ": 1785162474563,
-      "traffic:R_kgDOQ6dTZg": 1785162474727,
-      "traffic:R_kgDOQE2BWw": 1785162474705,
-      "traffic:R_kgDOQg-NeQ": 1785162474841,
-      "traffic:R_kgDOQfbmwQ": 1785162474881,
+      "traffic:R_kgDOOyXo0A": 1785247268462,
+      "traffic:R_kgDOQ6cmwQ": 1785247268311,
+      "traffic:R_kgDOQ6dTZg": 1785247268453,
+      "traffic:R_kgDOQE2BWw": 1785247268564,
+      "traffic:R_kgDOQg-NeQ": 1785247268723,
+      "traffic:R_kgDOQfbmwQ": 1785247268570,
       "contributors:R_kgDOQfbmwQ:147abd8ba08939dfa8054060aa7c25b06872dedd": 1780670792199,
       "contributors:R_kgDOQg-NeQ:b912fd8cda823107684a27910c07fdcb447ea091": 1780670792092,
-      "traffic:R_kgDOOJKUog": 1785162474986,
+      "traffic:R_kgDOOJKUog": 1785247268714,
       "contributors:R_kgDOLyVe5w:5de778d35e95f5f970a9d0c5216e1782896e0482": 1780670793388,
       "contributors:R_kgDOLD_phQ:49313d14b24f1b8efbeb49f9a6b2126f9bbd0849": 1780670792870,
       "contributors:R_kgDOMiQ7SQ:47f492b9302c67091ebd185d8854d370f0f09e35": 1780670793371,
       "contributors:R_kgDOQ0EZIA:8713c114e730f47f67f5b1ea90c9d9ff8e39de32": 1780670795114,
       "contributors:R_kgDOOJKUog:a52482c59df9f566e4786d3217f9d6d54d499fad": 1780670793008,
-      "traffic:R_kgDOQ0EZIA": 1785162475016,
+      "traffic:R_kgDOQ0EZIA": 1785247268895,
       "contributors:R_kgDONd8R3Q:cb2e6e3dd3bef7ec7a9a09ce30aa8d579f1948bc": 1780670793379,
-      "traffic:R_kgDOLzGKkQ": 1785162475125,
+      "traffic:R_kgDOLzGKkQ": 1785247268837,
       "contributors:R_kgDOLzGKkQ:ed724dfa2c19373369c5affbd5cbe5fa62f84684": 1780670793732,
       "contributors:R_kgDOQ6cmwQ:4a195d00f7403736ca9b16bf9d1e3a968bd1920a": 1780147517952,
       "contributors:R_kgDOQ6dTZg:5cf0c8dc30005b98643c6ee407f829b83089e65a": 1780147518002,
@@ -18576,7 +18620,9 @@
       "contributors:R_kgDOQ6cmwQ:9e870d88510ff6c77f4f527402c62e87b9e3179d": 1785071752537,
       "contributors:R_kgDOQ6dTZg:929815167f2c9b2b8113caf712ace28180591945": 1785071754652,
       "contributors:R_kgDOQ6cmwQ:22ddeb9e1fc9185e7dd163b5ea066133de4fcf6a": 1785162476052,
-      "contributors:R_kgDOQ6dTZg:cbdd2009f10e8e9be8d4fbd752b956dbae20a468": 1785162478436
+      "contributors:R_kgDOQ6dTZg:cbdd2009f10e8e9be8d4fbd752b956dbae20a468": 1785162478436,
+      "contributors:R_kgDOQ6cmwQ:da2f5863b44f5660940372d0ccb5c96370d60e57": 1785247269728,
+      "contributors:R_kgDOQ6dTZg:49d8f433860ae3bbb8ed43abea4a6f62cee1e0d1": 1785247272134
     },
     "failures": {}
   }
