@@ -10,11 +10,11 @@
   "websiteUrl": null,
   "createdAt": "2018-09-26T13:23:19Z",
   "repoViews": 3,
-  "linesOfCodeChanged": 560790,
-  "linesAdded": 391608,
-  "linesDeleted": 169182,
-  "commitCount": 944,
-  "totalCommits": 940,
+  "linesOfCodeChanged": 561268,
+  "linesAdded": 391880,
+  "linesDeleted": 169388,
+  "commitCount": 946,
+  "totalCommits": 941,
   "totalPullRequests": 14,
   "totalPullRequestReviews": 3,
   "codeByteTotal": 1569579,
@@ -88,14 +88,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2696,
+  "totalContributions": 2721,
   "contributionStats": {
-    "longestStreak": 209,
-    "currentStreak": 209,
+    "longestStreak": 210,
+    "currentStreak": 210,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.94,
-    "averagePerWeek": 6.56,
-    "averagePerMonth": 28.09,
+    "averagePerWeek": 6.61,
+    "averagePerMonth": 28.34,
     "monthlyBreakdown": [
       {
         "month": "2018-09",
@@ -479,7 +479,7 @@
       },
       {
         "month": "2026-08",
-        "contributions": 52
+        "contributions": 77
       }
     ],
     "yearlyBreakdown": [
@@ -517,7 +517,7 @@
       },
       {
         "year": "2026",
-        "contributions": 1473
+        "contributions": 1498
       }
     ],
     "peakDay": {
@@ -681,23 +681,23 @@
       "nodejs",
       "python"
     ],
-    "contributionsThisYear": 1473,
+    "contributionsThisYear": 1498,
     "contributionsLastYear": 1222,
-    "yearOverYearGrowth": 20.54,
+    "yearOverYearGrowth": 22.59,
     "mostProductiveMonth": {
       "month": "2026-04",
       "contributions": 451
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 940,
-    "restrictedContributionsCount": 1727,
+    "totalCommitContributions": 941,
+    "restrictedContributionsCount": 1751,
     "totalIssueContributions": 12,
     "totalRepositoryContributions": 7,
     "totalPullRequestContributions": 5,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2696,
+      "totalContributions": 2721,
       "weeks": [
         {
           "contributionDays": [
@@ -13878,12 +13878,16 @@
               "date": "2026-08-04"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 12,
               "date": "2026-08-05"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 13,
               "date": "2026-08-06"
+            },
+            {
+              "contributionCount": 9,
+              "date": "2026-08-07"
             }
           ]
         }
@@ -13940,7 +13944,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-08-06T02:28:09Z",
+      "updatedAt": "2026-08-07T02:37:30Z",
       "createdAt": "2026-01-15T14:57:54Z"
     },
     {
@@ -13982,15 +13986,15 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-08-05T14:04:54Z",
+      "updatedAt": "2026-08-06T14:04:19Z",
       "createdAt": "2026-01-15T14:41:12Z"
     }
   ],
   "closedIssues": 8,
   "openIssues": 4,
-  "fetchedAt": 1786024918340,
+  "fetchedAt": 1786107437067,
   "schemaVersion": 2,
-  "generatedAt": "2026-08-06T14:01:58.340Z",
+  "generatedAt": "2026-08-07T12:57:17.067Z",
   "profile": {
     "name": "",
     "login": "Serkyo",
@@ -14006,15 +14010,15 @@
     "following": 2
   },
   "profileContributions": {
-    "totalContributions": 2696,
-    "totalCommitContributions": 940,
-    "restrictedContributionsCount": 1727,
+    "totalContributions": 2721,
+    "totalCommitContributions": 941,
+    "restrictedContributionsCount": 1751,
     "totalIssueContributions": 12,
     "totalRepositoryContributions": 7,
     "totalPullRequestContributions": 5,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2696,
+      "totalContributions": 2721,
       "weeks": [
         {
           "contributionDays": [
@@ -27195,24 +27199,28 @@
               "date": "2026-08-04"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 12,
               "date": "2026-08-05"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 13,
               "date": "2026-08-06"
+            },
+            {
+              "contributionCount": 9,
+              "date": "2026-08-07"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 209,
-      "currentStreak": 209,
+      "longestStreak": 210,
+      "currentStreak": 210,
       "mostActiveDay": "Tuesday",
       "averagePerDay": 0.94,
-      "averagePerWeek": 6.56,
-      "averagePerMonth": 28.09,
+      "averagePerWeek": 6.61,
+      "averagePerMonth": 28.34,
       "monthlyBreakdown": [
         {
           "month": "2018-09",
@@ -27596,7 +27604,7 @@
         },
         {
           "month": "2026-08",
-          "contributions": 52
+          "contributions": 77
         }
       ],
       "yearlyBreakdown": [
@@ -27634,7 +27642,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1473
+          "contributions": 1498
         }
       ],
       "peakDay": {
@@ -27645,8 +27653,8 @@
     "repositoryContributions": [
       {
         "repositoryId": "R_kgDOOJKUog",
-        "nameWithOwner": "Cryoforge-Nexus/Shiveron",
-        "owner": "Cryoforge-Nexus",
+        "nameWithOwner": "CryoforgeNexus/Shiveron",
+        "owner": "CryoforgeNexus",
         "counts": {
           "commits": 181,
           "issues": 7,
@@ -27744,7 +27752,7 @@
         "nameWithOwner": "Serkyo/stats",
         "owner": "Serkyo",
         "counts": {
-          "commits": 204,
+          "commits": 205,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -27819,11 +27827,11 @@
     {
       "id": "R_kgDOOJKUog",
       "name": "Shiveron",
-      "nameWithOwner": "Cryoforge-Nexus/Shiveron",
-      "owner": "Cryoforge-Nexus",
+      "nameWithOwner": "CryoforgeNexus/Shiveron",
+      "owner": "CryoforgeNexus",
       "ownerType": "Organization",
       "description": "Modular and multipurpose Discord Bot, built using discord.js v14",
-      "url": "https://github.com/Cryoforge-Nexus/Shiveron",
+      "url": "https://github.com/CryoforgeNexus/Shiveron",
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
@@ -27878,7 +27886,7 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOLzGKkQ",
@@ -27970,7 +27978,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786024906444
+      "metadataFetchedAt": 1786107427472
     },
     {
       "id": "R_kgDOQE2BWw",
@@ -28024,7 +28032,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOOyXo0A",
@@ -28074,7 +28082,7 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOQ6dTZg",
@@ -28090,9 +28098,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-01-15T14:57:54Z",
-      "updatedAt": "2026-08-06T02:28:09Z",
-      "pushedAt": "2026-08-06T02:28:05Z",
-      "defaultBranchOid": "bfa6418fbd7954ceed863a4bddd7327a196b9f59",
+      "updatedAt": "2026-08-07T02:37:30Z",
+      "pushedAt": "2026-08-07T02:37:19Z",
+      "defaultBranchOid": "3c07ba85dcaa4c4a4ab92ff6bd82e5789ce8358f",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -28111,7 +28119,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOQ0EZIA",
@@ -28167,7 +28175,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOQfbmwQ",
@@ -28204,7 +28212,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOQg-NeQ",
@@ -28248,7 +28256,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOQ6cmwQ",
@@ -28264,9 +28272,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-01-15T14:41:12Z",
-      "updatedAt": "2026-08-05T14:04:54Z",
-      "pushedAt": "2026-08-05T14:03:13Z",
-      "defaultBranchOid": "71551cb154d7d65b76d7d98d45a537e846993976",
+      "updatedAt": "2026-08-06T14:04:19Z",
+      "pushedAt": "2026-08-06T14:02:00Z",
+      "defaultBranchOid": "3c61094e1cce94c69a1dc2f00fa3402576a226e1",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -28279,13 +28287,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 204,
+        "commits": 205,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786024907383
+      "metadataFetchedAt": 1786107428356
     },
     {
       "id": "R_kgDOLD_phQ",
@@ -28338,7 +28346,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786024906444
+      "metadataFetchedAt": 1786107427472
     },
     {
       "id": "R_kgDOLyVe5w",
@@ -28381,7 +28389,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786024906444
+      "metadataFetchedAt": 1786107427472
     },
     {
       "id": "R_kgDOMiQ7SQ",
@@ -28417,7 +28425,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786024906444
+      "metadataFetchedAt": 1786107427472
     }
   ],
   "repoMetrics": {
@@ -28549,10 +28557,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 944,
-      "linesAdded": 391608,
-      "linesDeleted": 169182,
-      "linesOfCodeChanged": 560790,
+      "totalCommits": 946,
+      "linesAdded": 391880,
+      "linesDeleted": 169388,
+      "linesOfCodeChanged": 561268,
       "reposCompleted": 13,
       "reposPending": 0,
       "reposFailed": 0
@@ -28720,9 +28728,9 @@
         "nodejs",
         "python"
       ],
-      "contributionsThisYear": 1473,
+      "contributionsThisYear": 1498,
       "contributionsLastYear": 1222,
-      "yearOverYearGrowth": 20.54,
+      "yearOverYearGrowth": 22.59,
       "mostProductiveMonth": {
         "month": "2026-04",
         "contributions": 451
@@ -28733,9 +28741,9 @@
     "readmeSummary": {
       "name": "",
       "username": "Serkyo",
-      "totalContributions": 2696,
-      "currentStreak": 209,
-      "longestStreak": 209,
+      "totalContributions": 2721,
+      "currentStreak": 210,
+      "longestStreak": 210,
       "topLanguages": [
         {
           "languageName": "Java",
@@ -28771,7 +28779,7 @@
       "starsReceived": 0,
       "forksReceived": 2,
       "activeRepos": 10,
-      "refreshedAt": "2026-08-06T14:01:58.340Z",
+      "refreshedAt": "2026-08-07T12:57:17.067Z",
       "complete": true
     },
     "cards": [
@@ -28783,7 +28791,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "209 days"
+        "value": "210 days"
       },
       {
         "id": "languages",
@@ -28837,7 +28845,7 @@
       },
       {
         "period": "2026",
-        "contributions": 1473
+        "contributions": 1498
       }
     ],
     "highlights": [
@@ -28872,7 +28880,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "2.7K",
-          "supportingText": "209 day longest streak"
+          "supportingText": "210 day longest streak"
         },
         {
           "id": "repositories",
@@ -28897,9 +28905,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1786024905081,
-    "finishedAt": 1786024918340,
-    "durationMs": 13259,
+    "startedAt": 1786107425957,
+    "finishedAt": 1786107437067,
+    "durationMs": 11110,
     "coreComplete": true,
     "complete": true,
     "cache": {
@@ -28920,15 +28928,15 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4985,
-        "used": 15,
-        "resetAt": "2026-08-06T14:25:10Z"
+        "remaining": 4990,
+        "used": 10,
+        "resetAt": "2026-08-07T13:57:06Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4995,
-        "used": 5,
-        "resetAt": "2026-08-06T14:25:10.000Z"
+        "remaining": 4996,
+        "used": 4,
+        "resetAt": "2026-08-07T13:57:15.000Z"
       }
     },
     "warnings": [],
@@ -28946,11 +28954,11 @@
     "websiteUrl": null,
     "createdAt": "2018-09-26T13:23:19Z",
     "repoViews": 3,
-    "linesOfCodeChanged": 560790,
-    "linesAdded": 391608,
-    "linesDeleted": 169182,
-    "commitCount": 944,
-    "totalCommits": 940,
+    "linesOfCodeChanged": 561268,
+    "linesAdded": 391880,
+    "linesDeleted": 169388,
+    "commitCount": 946,
+    "totalCommits": 941,
     "totalPullRequests": 14,
     "totalPullRequestReviews": 3,
     "codeByteTotal": 1569579,
@@ -29024,14 +29032,14 @@
     "repositoriesContributedTo": 2,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 2696,
+    "totalContributions": 2721,
     "contributionStats": {
-      "longestStreak": 209,
-      "currentStreak": 209,
+      "longestStreak": 210,
+      "currentStreak": 210,
       "mostActiveDay": "Tuesday",
       "averagePerDay": 0.94,
-      "averagePerWeek": 6.56,
-      "averagePerMonth": 28.09,
+      "averagePerWeek": 6.61,
+      "averagePerMonth": 28.34,
       "monthlyBreakdown": [
         {
           "month": "2018-09",
@@ -29415,7 +29423,7 @@
         },
         {
           "month": "2026-08",
-          "contributions": 52
+          "contributions": 77
         }
       ],
       "yearlyBreakdown": [
@@ -29453,7 +29461,7 @@
         },
         {
           "year": "2026",
-          "contributions": 1473
+          "contributions": 1498
         }
       ],
       "peakDay": {
@@ -29617,23 +29625,23 @@
         "nodejs",
         "python"
       ],
-      "contributionsThisYear": 1473,
+      "contributionsThisYear": 1498,
       "contributionsLastYear": 1222,
-      "yearOverYearGrowth": 20.54,
+      "yearOverYearGrowth": 22.59,
       "mostProductiveMonth": {
         "month": "2026-04",
         "contributions": 451
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 940,
-      "restrictedContributionsCount": 1727,
+      "totalCommitContributions": 941,
+      "restrictedContributionsCount": 1751,
       "totalIssueContributions": 12,
       "totalRepositoryContributions": 7,
       "totalPullRequestContributions": 5,
       "totalPullRequestReviewContributions": 3,
       "contributionCalendar": {
-        "totalContributions": 2696,
+        "totalContributions": 2721,
         "weeks": [
           {
             "contributionDays": [
@@ -42814,12 +42822,16 @@
                 "date": "2026-08-04"
               },
               {
-                "contributionCount": 6,
+                "contributionCount": 12,
                 "date": "2026-08-05"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 13,
                 "date": "2026-08-06"
+              },
+              {
+                "contributionCount": 9,
+                "date": "2026-08-07"
               }
             ]
           }
@@ -42876,7 +42888,7 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-08-06T02:28:09Z",
+        "updatedAt": "2026-08-07T02:37:30Z",
         "createdAt": "2026-01-15T14:57:54Z"
       },
       {
@@ -42918,12 +42930,12 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-08-05T14:04:54Z",
+        "updatedAt": "2026-08-06T14:04:19Z",
         "createdAt": "2026-01-15T14:41:12Z"
       }
     ],
     "closedIssues": 8,
     "openIssues": 4,
-    "fetchedAt": 1786024918340
+    "fetchedAt": 1786107437067
   }
 }
