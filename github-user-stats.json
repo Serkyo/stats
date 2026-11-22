@@ -4,17 +4,17 @@
   "username": "Serkyo",
   "bio": "👋 Hey there ! I'm a developer who enjoys creating fun, open-source projects, mostly around games 🎮 Currently learning rust and diving deep into indie dev 🌟",
   "company": null,
-  "location": "France, Bayonne",
+  "location": "France",
   "email": "serkyo-dev@proton.me",
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2018-09-26T13:23:19Z",
   "repoViews": 3,
-  "linesOfCodeChanged": 630879,
-  "linesAdded": 432214,
-  "linesDeleted": 198665,
-  "commitCount": 1198,
-  "totalCommits": 1089,
+  "linesOfCodeChanged": 631451,
+  "linesAdded": 432568,
+  "linesDeleted": 198883,
+  "commitCount": 1200,
+  "totalCommits": 1090,
   "totalPullRequests": 19,
   "totalPullRequestReviews": 3,
   "codeByteTotal": 2816451,
@@ -112,10 +112,10 @@
   "repositoriesContributedTo": 4,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 3456,
+  "totalContributions": 3457,
   "contributionStats": {
-    "longestStreak": 315,
-    "currentStreak": 315,
+    "longestStreak": 316,
+    "currentStreak": 316,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 1.16,
     "averagePerWeek": 8.1,
@@ -515,7 +515,7 @@
       },
       {
         "month": "2026-11",
-        "contributions": 52
+        "contributions": 53
       }
     ],
     "yearlyBreakdown": [
@@ -553,7 +553,7 @@
       },
       {
         "year": "2026",
-        "contributions": 2233
+        "contributions": 2234
       }
     ],
     "peakDay": {
@@ -729,23 +729,23 @@
       "nodejs",
       "python"
     ],
-    "contributionsThisYear": 2233,
+    "contributionsThisYear": 2234,
     "contributionsLastYear": 1222,
-    "yearOverYearGrowth": 82.73,
+    "yearOverYearGrowth": 82.82,
     "mostProductiveMonth": {
       "month": "2026-04",
       "contributions": 451
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1089,
+    "totalCommitContributions": 1090,
     "restrictedContributionsCount": 2329,
     "totalIssueContributions": 14,
     "totalRepositoryContributions": 9,
     "totalPullRequestContributions": 10,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 3456,
+      "totalContributions": 3457,
       "weeks": [
         {
           "contributionDays": [
@@ -14418,8 +14418,16 @@
               "date": "2026-11-20"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-11-22"
             }
           ]
         }
@@ -14552,15 +14560,15 @@
   ],
   "closedIssues": 11,
   "openIssues": 3,
-  "fetchedAt": 1795286483806,
+  "fetchedAt": 1795374067111,
   "schemaVersion": 2,
-  "generatedAt": "2026-11-21T18:41:23.806Z",
+  "generatedAt": "2026-11-22T19:01:07.111Z",
   "profile": {
     "name": "",
     "login": "Serkyo",
     "bio": "👋 Hey there ! I'm a developer who enjoys creating fun, open-source projects, mostly around games 🎮 Currently learning rust and diving deep into indie dev 🌟",
     "company": null,
-    "location": "France, Bayonne",
+    "location": "France",
     "email": "serkyo-dev@proton.me",
     "twitterUsername": null,
     "websiteUrl": null,
@@ -14570,15 +14578,15 @@
     "following": 2
   },
   "profileContributions": {
-    "totalContributions": 3456,
-    "totalCommitContributions": 1089,
+    "totalContributions": 3457,
+    "totalCommitContributions": 1090,
     "restrictedContributionsCount": 2329,
     "totalIssueContributions": 14,
     "totalRepositoryContributions": 9,
     "totalPullRequestContributions": 10,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 3456,
+      "totalContributions": 3457,
       "weeks": [
         {
           "contributionDays": [
@@ -28251,16 +28259,24 @@
               "date": "2026-11-20"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-11-22"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 315,
-      "currentStreak": 315,
+      "longestStreak": 316,
+      "currentStreak": 316,
       "mostActiveDay": "Tuesday",
       "averagePerDay": 1.16,
       "averagePerWeek": 8.1,
@@ -28660,7 +28676,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 52
+          "contributions": 53
         }
       ],
       "yearlyBreakdown": [
@@ -28698,7 +28714,7 @@
         },
         {
           "year": "2026",
-          "contributions": 2233
+          "contributions": 2234
         }
       ],
       "peakDay": {
@@ -28832,7 +28848,7 @@
         "nameWithOwner": "Serkyo/stats",
         "owner": "Serkyo",
         "counts": {
-          "commits": 310,
+          "commits": 311,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -28990,7 +29006,7 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOVkBHTA",
@@ -29137,7 +29153,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286470288
+      "metadataFetchedAt": 1795374053890
     },
     {
       "id": "R_kgDOUdTiqQ",
@@ -29174,7 +29190,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQE2BWw",
@@ -29228,7 +29244,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOOyXo0A",
@@ -29278,7 +29294,7 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQ6dTZg",
@@ -29295,8 +29311,8 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2026-01-15T14:57:54Z",
       "updatedAt": "2026-11-12T05:50:45Z",
-      "pushedAt": "2026-11-21T05:43:15Z",
-      "defaultBranchOid": "9ebe1f92d211a88eb3e2bcc361e6fb539e829f85",
+      "pushedAt": "2026-11-22T05:09:30Z",
+      "defaultBranchOid": "367b4dca78b7ac765f90b92fd6fdd1ef668f4cc8",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -29315,7 +29331,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOURIkxg",
@@ -29395,7 +29411,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQ0EZIA",
@@ -29451,7 +29467,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQfbmwQ",
@@ -29488,7 +29504,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQg-NeQ",
@@ -29532,7 +29548,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOQ6cmwQ",
@@ -29549,8 +29565,8 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2026-01-15T14:41:12Z",
       "updatedAt": "2026-11-11T19:14:38Z",
-      "pushedAt": "2026-11-20T19:36:47Z",
-      "defaultBranchOid": "5cfd176aa00c37dd6a41d61278539b234d73f464",
+      "pushedAt": "2026-11-21T18:41:25Z",
+      "defaultBranchOid": "4a2a61368d32c582a9bc4d02f504ea0990984140",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -29563,13 +29579,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 310,
+        "commits": 311,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOP-Z6Pw",
@@ -29606,7 +29622,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOUQj3aw",
@@ -29674,7 +29690,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286471273
+      "metadataFetchedAt": 1795374054949
     },
     {
       "id": "R_kgDOLD_phQ",
@@ -29727,7 +29743,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286470288
+      "metadataFetchedAt": 1795374053890
     },
     {
       "id": "R_kgDOLyVe5w",
@@ -29770,7 +29786,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286470288
+      "metadataFetchedAt": 1795374053890
     },
     {
       "id": "R_kgDOMiQ7SQ",
@@ -29806,7 +29822,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795286470288
+      "metadataFetchedAt": 1795374053890
     }
   ],
   "repoMetrics": {
@@ -29962,10 +29978,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 1198,
-      "linesAdded": 432214,
-      "linesDeleted": 198665,
-      "linesOfCodeChanged": 630879,
+      "totalCommits": 1200,
+      "linesAdded": 432568,
+      "linesDeleted": 198883,
+      "linesOfCodeChanged": 631451,
       "reposCompleted": 18,
       "reposPending": 0,
       "reposFailed": 0
@@ -30145,9 +30161,9 @@
         "nodejs",
         "python"
       ],
-      "contributionsThisYear": 2233,
+      "contributionsThisYear": 2234,
       "contributionsLastYear": 1222,
-      "yearOverYearGrowth": 82.73,
+      "yearOverYearGrowth": 82.82,
       "mostProductiveMonth": {
         "month": "2026-04",
         "contributions": 451
@@ -30158,9 +30174,9 @@
     "readmeSummary": {
       "name": "",
       "username": "Serkyo",
-      "totalContributions": 3456,
-      "currentStreak": 315,
-      "longestStreak": 315,
+      "totalContributions": 3457,
+      "currentStreak": 316,
+      "longestStreak": 316,
       "topLanguages": [
         {
           "languageName": "Java",
@@ -30196,7 +30212,7 @@
       "starsReceived": 0,
       "forksReceived": 2,
       "activeRepos": 15,
-      "refreshedAt": "2026-11-21T18:41:23.806Z",
+      "refreshedAt": "2026-11-22T19:01:07.111Z",
       "complete": true
     },
     "cards": [
@@ -30208,7 +30224,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "315 days"
+        "value": "316 days"
       },
       {
         "id": "languages",
@@ -30262,7 +30278,7 @@
       },
       {
         "period": "2026",
-        "contributions": 2233
+        "contributions": 2234
       }
     ],
     "highlights": [
@@ -30297,7 +30313,7 @@
           "id": "contributions",
           "title": "Contribution history",
           "metric": "3.5K",
-          "supportingText": "315 day longest streak"
+          "supportingText": "316 day longest streak"
         },
         {
           "id": "repositories",
@@ -30322,9 +30338,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1795286468919,
-    "finishedAt": 1795286483806,
-    "durationMs": 14887,
+    "startedAt": 1795374052477,
+    "finishedAt": 1795374067111,
+    "durationMs": 14634,
     "coreComplete": true,
     "complete": true,
     "cache": {
@@ -30345,15 +30361,15 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4997,
-        "used": 3,
-        "resetAt": "2026-11-21T19:41:13Z"
+        "remaining": 4993,
+        "used": 7,
+        "resetAt": "2026-11-22T20:00:52Z"
       },
       "rest": {
         "limit": 5000,
         "remaining": 4995,
         "used": 5,
-        "resetAt": "2026-11-21T19:41:20.000Z"
+        "resetAt": "2026-11-22T20:01:03.000Z"
       }
     },
     "warnings": [],
@@ -30365,17 +30381,17 @@
     "username": "Serkyo",
     "bio": "👋 Hey there ! I'm a developer who enjoys creating fun, open-source projects, mostly around games 🎮 Currently learning rust and diving deep into indie dev 🌟",
     "company": null,
-    "location": "France, Bayonne",
+    "location": "France",
     "email": "serkyo-dev@proton.me",
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2018-09-26T13:23:19Z",
     "repoViews": 3,
-    "linesOfCodeChanged": 630879,
-    "linesAdded": 432214,
-    "linesDeleted": 198665,
-    "commitCount": 1198,
-    "totalCommits": 1089,
+    "linesOfCodeChanged": 631451,
+    "linesAdded": 432568,
+    "linesDeleted": 198883,
+    "commitCount": 1200,
+    "totalCommits": 1090,
     "totalPullRequests": 19,
     "totalPullRequestReviews": 3,
     "codeByteTotal": 2816451,
@@ -30473,10 +30489,10 @@
     "repositoriesContributedTo": 4,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 3456,
+    "totalContributions": 3457,
     "contributionStats": {
-      "longestStreak": 315,
-      "currentStreak": 315,
+      "longestStreak": 316,
+      "currentStreak": 316,
       "mostActiveDay": "Tuesday",
       "averagePerDay": 1.16,
       "averagePerWeek": 8.1,
@@ -30876,7 +30892,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 52
+          "contributions": 53
         }
       ],
       "yearlyBreakdown": [
@@ -30914,7 +30930,7 @@
         },
         {
           "year": "2026",
-          "contributions": 2233
+          "contributions": 2234
         }
       ],
       "peakDay": {
@@ -31090,23 +31106,23 @@
         "nodejs",
         "python"
       ],
-      "contributionsThisYear": 2233,
+      "contributionsThisYear": 2234,
       "contributionsLastYear": 1222,
-      "yearOverYearGrowth": 82.73,
+      "yearOverYearGrowth": 82.82,
       "mostProductiveMonth": {
         "month": "2026-04",
         "contributions": 451
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 1089,
+      "totalCommitContributions": 1090,
       "restrictedContributionsCount": 2329,
       "totalIssueContributions": 14,
       "totalRepositoryContributions": 9,
       "totalPullRequestContributions": 10,
       "totalPullRequestReviewContributions": 3,
       "contributionCalendar": {
-        "totalContributions": 3456,
+        "totalContributions": 3457,
         "weeks": [
           {
             "contributionDays": [
@@ -44779,8 +44795,16 @@
                 "date": "2026-11-20"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-11-21"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 0,
+                "date": "2026-11-22"
               }
             ]
           }
@@ -44913,6 +44937,6 @@
     ],
     "closedIssues": 11,
     "openIssues": 3,
-    "fetchedAt": 1795286483806
+    "fetchedAt": 1795374067111
   }
 }
